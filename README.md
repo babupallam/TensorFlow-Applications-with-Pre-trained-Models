@@ -35,29 +35,17 @@ To get started with these applications, follow these steps:
 **Description**: Classifies images into predefined categories such as animals, objects, etc.  
 **Usage**: [image_classification.py](image_classification.py)
 
-### 2. Object Detection
-
-**Model**: `SSD MobileNet V2`  
-**Description**: Detects and localizes objects within an image.  
-**Usage**: [object_detection.py](object_detection.py)
-
-### 3. Image Segmentation
-
-**Model**: `DeepLabV3`  
-**Description**: Segments objects in an image by labeling each pixel.  
-**Usage**: [image_segmentation.py](image_segmentation.py)
-
-### 4. Pose Estimation
-
-**Model**: `MoveNet`  
-**Description**: Estimates human poses from images in real-time.  
-**Usage**: [pose_estimation.py](pose_estimation.py)
-
 ### 5. Face Detection
 
 **Model**: `MTCNN`  
 **Description**: Detects faces within an image.  
 **Usage**: [face_detection.py](face_detection.py)
+
+### 2. Object Detection
+
+**Model**: `SSD MobileNet V2`  
+**Description**: Detects and localizes objects within an image.  
+**Usage**: [object_detection.py](object_detection.py)
 
 ### 6. Text Classification
 
